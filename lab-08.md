@@ -20,7 +20,7 @@ Now, load the dataset. If your data isn’t ready yet, you can leave
 uoe_art <- read_csv("data/uoe-art.csv")
 ```
 
-## Exercise 9
+## Exercise 10
 
 Let’s start working with the **title** column by separating the title
 and the date:
@@ -39,14 +39,14 @@ uoe_art <- uoe_art %>%
 
 Make sure to replace `___` with the appropriate column name.
 
-## Exercise 10
+## Exercise 11
 
 *Write your answer here.*
 
 Feel free to add code chunks as needed. Don’t forget to label your code
 chunk.
 
-## Exercise 11
+## Exercise 12
 
 *Continue with the same structure as above.*
 
